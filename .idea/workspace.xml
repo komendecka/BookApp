@@ -24,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -42,11 +43,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673438926969</updated>
-      <workItem from="1673438928936" duration="2760000" />
+      <workItem from="1673438928936" duration="11774000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1133" y="395" key="#ESLint" timestamp="1673870411453">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="1133" y="395" key="#ESLint/0.25.1680.1025/-1440.654.1440.799@0.25.1680.1025" timestamp="1673870411453" />
   </component>
 </project>
