@@ -39,10 +39,13 @@
   
   function initActions() {
     const booksImage = document.querySelectorAll(select.containerOf.image);
-    for (let image of booksImage)
+    // let node = document.getElementById("myDIV").offsetParent;
+    //   console.log('node:', node);
+    for (let image of booksImage) {
       image.addEventListener('dblclick', function (event) {
         event.preventDefault();
         if (image.classList.contains('favorite')) {
+          console.log ('class:', image.classList.value);
           image.classList.remove('favorite');
           const bookID = image.getAttribute('data-id');
           const indexOfBook = favoriteBooks.indexOf(bookID);
@@ -54,7 +57,7 @@
         }
         console.log('favorite books:', favoriteBooks);
       });
-
+    }
   }
   
   initActions(); 
