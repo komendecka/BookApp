@@ -44,7 +44,6 @@
         <p class="product__base-price no-spacing">${{ price }}</p>
       </header>
 
-       cover image
       <a href="#" class="book__image" data-id="{{ id }}">
         <figure>
           <img src="{{ image }}" alt="{{ name }}">
@@ -53,7 +52,7 @@
 
       <!-- ratings -->
       <div class="book__rating">
-        <div class="book__rating__fill">
+        <div class="book__rating__fill" style="width: {{ ratingWidth }}%; background: {{ ratingBgc }}">
           {{ rating }}/10
         </div>
       </div>

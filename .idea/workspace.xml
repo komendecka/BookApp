@@ -52,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673438926969</updated>
       <workItem from="1673438928936" duration="15571000" />
-      <workItem from="1673953878160" duration="89000" />
+      <workItem from="1673953878160" duration="8403000" />
+      <workItem from="1673990385759" duration="8482000" />
     </task>
     <servers />
   </component>
@@ -60,9 +61,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1133" y="395" key="#ESLint" timestamp="1673870411453">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state x="2573" y="-234" key="#ESLint" timestamp="1674043339196">
+      <screen x="1440" y="-604" width="1680" height="1025" />
     </state>
     <state x="1133" y="395" key="#ESLint/0.25.1680.1025/-1440.654.1440.799@0.25.1680.1025" timestamp="1673870411453" />
+    <state x="2573" y="-234" key="#ESLint/1440.-604.1680.1025/0.25.1440.799@1440.-604.1680.1025" timestamp="1674043339196" />
+    <state x="2138" y="-494" key="SettingsEditor" timestamp="1673981817500">
+      <screen x="1440" y="-604" width="1680" height="1025" />
+    </state>
+    <state x="2138" y="-494" key="SettingsEditor/1440.-604.1680.1025/0.25.1440.799@1440.-604.1680.1025" timestamp="1673981817500" />
   </component>
 </project>
