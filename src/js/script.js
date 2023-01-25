@@ -45,7 +45,8 @@
 
       for (let book of thisBooksList.data) {
         const ratingBgc = thisBooksList.determineRatingBgc(book.rating);
-        const ratingWidth = book.rating * 10;
+        const ratioForCalcRatingWidth = 10;
+        const ratingWidth = ratioForCalcRatingWidth * book.rating;
         const generateHTML = templates.booksTemplate({
           id: book.id,
           name: book.name,
